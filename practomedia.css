@@ -1,0 +1,98 @@
+@media(max-width:500px) {
+
+
+.navdiv1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.logodiv{
+    width: 100%;
+}
+.dropalldiv{
+width: 100%;
+display: flex;
+    flex-direction: column;
+
+}
+.firstdiv1{
+    width: 100%;
+    height: 30vh;
+}
+.secondsubdiv{
+    
+    width: 90%;
+}
+.seconddiv{
+    
+    width: 100%;
+}
+.thirddiv{
+    width: 100%;
+    
+    height: 20vh;
+}
+.image3docmedia{
+    width: 400px;
+}
+.fourthdiv{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100%;
+    height: 160vh;
+    
+}
+.fifthdiv{
+    width: 100%;
+    height: 30vh;
+    
+    display: flex;
+    flex-direction: column;
+}
+.sixthdiv{
+    width: 100%;
+    height: 150vh;
+    
+    display: flex;
+    flex-direction: column;
+}.seventhdiv{
+    width: 100%;
+    
+    height: 15vh;
+}
+.eighthdiv{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    height: 150vh;
+}
+.ninthdiv{
+    width: 100%;
+    
+    display: flex;
+    flex-direction: column;
+    height: 130vh;
+}
+.ninthboxdiv{
+    width: 100%;
+}
+.eleventhdiv{
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+}
+.twelthdiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 160vh;
+}
+
+    
+}
+
+
+

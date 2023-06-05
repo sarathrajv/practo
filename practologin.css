@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}
+.navopt1{
+    text-decoration: none;
+    color: black;
+}
+
+.firstdiv1{
+    width: 100%;
+    height: 90px;
+    
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    
+}
+.navopt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.navdiv1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    width: 40%;
+}
+.logodiv{
+    width: 15%;
+   
+}
+.dropalldiv{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: black;
+    border: 0;
+}
+.seconddiv{
+    width: 100%;
+    height: 10vh;
+    /* background-color: brown; */
+    display: flex;
+    align-items: end;
+    justify-content: center;
+
+}
+.loginhead{
+    color: rgb(0, 114, 114);
+    overflow: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.thirddiv{
+    
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.boxlogin{
+    border: 1px solid black;
+    width: 380px;
+    height: 350px;
+    padding: 25px;
+}
+.plcehldr{
+    width:320px ;
+    height: 30px;
+
+}
+.loginbtn{
+    width:320px ;
+    height: 50px;
+    margin-top: 10px;
+    background-color: rgb(0, 175, 228);
+    color: azure;
+    border-radius: 10px;
+}
+.chkbx{
+    margin-top: 5px;
+}
+
+.twelthdiv{
+    width: 100%;
+    height: 70vh;
+    background-image: linear-gradient(rgb(0, 188, 235),rgb(153, 153, 153));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.twelthsubdiv{
+   
+   width: 400px;
+   height: 250px;
+}
+.twelthsubdiv1{
+    
+   width: 400px;
+   height: 400px;
+}
+.twelthsubdiv2{
+    width: 400px;
+}
+.twelthsubdiv3{
+    width: 400px;
+}
+.twelthsubdiv4{
+    width: 400px;
+}
+.twelthsubdiv5{
+    width: 400px;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}
+.headdownbar{
+    overflow: hidden;
+}

@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}
+
+.firstdiv1{
+    width: 100%;
+    height: 90px;
+    
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    
+}
+.navopt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.navdiv1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    width: 40%;
+}
+.navopt1{
+    text-decoration: none;
+    color: black;
+}
+.logodiv{
+    width: 15%;
+   
+}
+.dropalldiv{
+    width: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: black;
+    border: 0;
+}
+.istock{
+    position: absolute;
+}
+.relativefont{
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.locatxt{
+    width: 300px;
+    height: 60px;
+    border: 0;
+}
+.sdhc{
+    width: 500px;
+    height: 60px;
+    border: 0;
+}
+.seconddivimg{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.thirddiv{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fourthdiv{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(203, 212, 194);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.readmorebtn{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(0, 204, 255);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+.fifthdiv{
+    width: 100%;
+    height: 20vh;
+    background-color:  rgb(203, 212, 194);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.fifthsubdiv{
+    width: 80%;
+    overflow: hidden;
+    height:20vh ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.security{
+    display: flex;
+    flex-direction: column;
+}
+.sixthdiv{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.findmetheright{
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(0, 214, 230);
+    border: 0;
+    border-radius: 5px;
+}
+.seventhdiv{
+    width: 100%;
+    height: 80vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.eleventhdiv{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.eleventhsubdiv{
+    width: 50%;
+}
+.twelthdiv{
+    width: 100%;
+    height: 70vh;
+    background-image: linear-gradient(rgb(0, 188, 235),rgb(153, 153, 153));
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.twelthsubdiv{
+   
+   width: 400px;
+   height: 250px;
+}
+.twelthsubdiv1{
+    
+   width: 400px;
+   height: 400px;
+}
+.twelthsubdiv2{
+    width: 400px;
+}
+.twelthsubdiv3{
+    width: 400px;
+}
+.twelthsubdiv4{
+    width: 400px;
+}
+.twelthsubdiv5{
+    width: 400px;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}
+.headdownbar{
+    overflow: hidden;
+}
