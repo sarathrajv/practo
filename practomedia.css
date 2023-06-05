@@ -90,7 +90,54 @@ display: flex;
     flex-direction: column;
     height: 160vh;
 }
+.firstdiv1{
+    display: flex;
+    /* background-color: aqua; */
+    flex-direction: column;
+    width: 100%;
+    height: 17vh;
+}
+.logodiv{
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8vh;
+}
+.navdiv1{
+    display: flex;
+    /* background-color: blueviolet; */
+    flex-direction: row;
+    height: 5vh;
+}
+.navopt{
+    font-size: small;
+    
 
+}
+.dropalldiv{
+    display: flex;
+    /* background-color: blueviolet; */
+    flex-direction: row;
+    height: 5vh;
+}
+.dropdown-item{
+    font-size: 10px;
+}
+.picture{
+    object-fit: cover;
+}
+.loginbtn{
+    
+    margin-top: 10px;
+    height: 6vh;
+    display: flex;
+    justify-content: end;
+    margin-right: 1rem;
+    
+
+}
     
 }
 
