@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
+    
     
 }
 
@@ -89,7 +89,7 @@
     width: 200px;
     height: 300px;
     display: flex;
-    
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     border-radius: 50px;
@@ -98,13 +98,19 @@
 
 }
 .img4{
-    background-color: rgb(153, 200, 255);
+    /* background-color: rgb(153, 200, 255); */
+    object-fit: contain;
+    
+    width: 100%;;
 }
 .txt4{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: 30vh;
+    width: 100%;
+    
 
 }
 .fifthdiv{
@@ -241,4 +247,7 @@
 }
 .get{
     background-color: aquamarine;
+}
+.headdownbar1{
+    text-align: center;
 }
