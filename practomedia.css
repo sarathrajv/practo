@@ -39,6 +39,7 @@ display: flex;
     display: flex;
     flex-direction: column;
     
+    
     width: 100%;
     height: 160vh;
     
@@ -135,8 +136,13 @@ display: flex;
     display: flex;
     justify-content: end;
     margin-right: 1rem;
+
     
 
+}
+.fourthsubdiv{
+    margin-top: 1rem;
+    margin-bottom: 3px;
 }
     
 }
